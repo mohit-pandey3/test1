@@ -1,1 +1,2 @@
-Hello this is my first git file. 
+Hello this is my first git file.
+Hi this is another line.
